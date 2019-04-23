@@ -108,6 +108,6 @@ At the most basic level, you need to do the following:
 
 See the "rk45_sample.html" file for an example of getting started with a one degree of freedom (first order) system.
 
-###
+### License
 
 MIT
